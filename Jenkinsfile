@@ -1,2 +1,4 @@
-sh hello.sh
+sh '''
+hello.sh
+'''
 echo "hhwjkehdjwhedshadhsad"
